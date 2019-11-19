@@ -28,9 +28,12 @@ Name, email address and password are required
 
 * Table definition
 
+https://docs.google.com/document/d/1unj16Xpn9-HHIpwiYY3FKQpzFZmQlYjV-6KJ4tR_rHo/edit?usp=sharing
+
+
 Relationship	                                         Primary Key	                    Foreign  Key
 Student  (Stud_id, Name, Address,  Contact, P_id)	       Stud_id                         	P_id
-User (User_id, Username,  Password)	                        User_id	
+User (User_id, Username,  Password, Password_confirmation)	 User_id                   	
 Book (Book_id, Book_title, Stud_id, Author, Status, Price)	Book_id  	                    Stud_id
 Publisher  (P_id,  Pname, Address)                        	P_id	
 
