@@ -34,3 +34,6 @@ User (User_id, Username,  Password)	                        User_id
 Book (Book_id, Book_title, Stud_id, Author, Status, Price)	Book_id  	                    Stud_id
 Publisher  (P_id,  Pname, Address)                        	P_id	
 
+Catalog  diagram
+
+https://docs.google.com/document/d/1-lVfqQMXZz2kbOZfeRU_sNtJuHYvcUKCyF4IY2KZcoE/edit?usp=sharing
