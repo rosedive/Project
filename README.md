@@ -44,3 +44,12 @@ https://docs.google.com/document/d/1-lVfqQMXZz2kbOZfeRU_sNtJuHYvcUKCyF4IY2KZcoE/
 Entity Relationship Diagram Definition
 
 https://docs.google.com/drawings/d/1EduHJFlyBNI6hN4sPOH1XqKWttcPVWBuXbLKR4JYGA4/edit?usp=sharing
+
+* Scheduled use Gem
+
+capistrano
+unicorn
+carrierwave
+mini_magick
+fog-aws
+search_cop
