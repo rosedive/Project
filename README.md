@@ -65,6 +65,11 @@ https://docs.google.com/document/d/1aSrsQhj4kbCWoDQFuqT-w2AMa2rw27Z5OUlfo1eSWKc/
 
 https://docs.google.com/document/d/1Jsd7bv-1KZJjuxVkC0aXBHmwHAbxtX9LKl0cUGCEkMk/edit?usp=sharing
 
+
+*  table definition
+
+https://docs.google.com/document/d/15VSOcQLsepznu_r-kNxihJyncJvWL3_wIc0prWA045c/edit?usp=sharing
+
 * Scheduled use Gems
 
 # Backend: 
