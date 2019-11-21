@@ -6,7 +6,7 @@ application up and running.
 Things you may want to cover:
 
 * version
-Ruby 2.6.3
+Ruby 2.5.1
 Rails 5.2.3
 
 * Poject Name 
@@ -19,37 +19,41 @@ A college library management is a project that manages and stores books informat
 * concept
 A Library Management System is a software built to handle the primary housekeeping functions of a library. Libraries rely on library management systems to manage asset collections as well as relationships with their members.
 
-* Functions list
-* Login function
-Username and password are required
-
-* user registration
-Name, email address and password are required
+* Function List
+.  user creation, update, show or view, approve and delete functions
+.  user login function
+.  login using username and password
+.  Logout function
+.  signin function using  username, user_type and password
+.  books create, display, edit and delete functions
+.  request function using send, approve and rejected
 
 * Table definition
 
 https://docs.google.com/document/d/1unj16Xpn9-HHIpwiYY3FKQpzFZmQlYjV-6KJ4tR_rHo/edit?usp=sharing
 
 
-Relationship	                                         Primary Key	                    Foreign  Key
-Student  (Stud_id, Name, Address,  Contact, P_id)	       Stud_id                         	P_id
-User (User_id, Username,  Password, Password_confirmation)	 User_id                   	
-Book (Book_id, Book_title, Stud_id, Author, Status, Price)	Book_id  	                    Stud_id
-Publisher  (P_id,  Pname, Address)                        	P_id	
-
-Catalog  diagram
+* Catalog  diagram
 
 https://docs.google.com/document/d/1-lVfqQMXZz2kbOZfeRU_sNtJuHYvcUKCyF4IY2KZcoE/edit?usp=sharing
 
-Entity Relationship Diagram Definition
+* Entity Relationship Diagram Definition
 
 https://docs.google.com/drawings/d/1EduHJFlyBNI6hN4sPOH1XqKWttcPVWBuXbLKR4JYGA4/edit?usp=sharing
 
+* transition diagram
+
+https://docs.google.com/document/d/1aSrsQhj4kbCWoDQFuqT-w2AMa2rw27Z5OUlfo1eSWKc/edit?usp=sharing
+
+* screen wire frame
+
+https://docs.google.com/document/d/1Jsd7bv-1KZJjuxVkC0aXBHmwHAbxtX9LKl0cUGCEkMk/edit?usp=sharing
+
 * Scheduled use Gem
 
-capistrano
-unicorn
-carrierwave
-mini_magick
-fog-aws
-search_cop
+. capistrano
+. unicorn
+. carrierwave
+. mini_magick
+. fog-aws
+. search_cop
