@@ -36,13 +36,15 @@ A college library management is a project that manages and stores books informat
 A Library Management System is a software built to handle the primary housekeeping functions of a library. Libraries rely on library management systems to manage asset collections as well as relationships with their members.
 
 * Function List
-.  user creation, update, show or view, approve and delete functions
-.  user login function
-.  login using username and password
-.  Logout function
-.  signin function using  username, user_type and password
-.  books create, display, edit and delete functions
-.  request function using send, approve and rejected
+* user creation, update, show or view, approve and delete functions
+* user login function
+* login using username and password
+* Logout function
+* signin function using  username, user_type and password
+* books create, display, edit and delete functions
+* request function using send, approve and rejected
+
+*  I will make CRUD by generating scaffold of controller, model and view
 
 * Table definition
 
