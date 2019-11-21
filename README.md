@@ -39,7 +39,7 @@ https://docs.google.com/document/d/1NlP4L3UueRAj_MzHROwoEmQDF3RZ0TzV7Z43xbUBxx8/
 
 * Entity Relationship Diagram Definition
 
-https://docs.google.com/drawings/d/1EduHJFlyBNI6hN4sPOH1XqKWttcPVWBuXbLKR4JYGA4/edit?usp=sharing
+https://docs.google.com/document/d/1dt4M8JXqMCGxM08Bo7mbF3gbHY9v1fxQp-_OzKI_Nqw/edit?usp=sharing
 
 * Screen transition diagram
 
