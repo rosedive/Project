@@ -65,7 +65,7 @@ https://docs.google.com/document/d/1w7HjF85dYgtGbnktRvmVbUCTNag1d5yWuluSIx5UE5A/
 
 * Screen wire frame 
 
-https://docs.google.com/document/d/1Jsd7bv-1KZJjuxVkC0aXBHmwHAbxtX9LKl0cUGCEkMk/edit?usp=sharing
+https://docs.google.com/document/d/132lvagQPu0dnC5kTd3JchKoXHPioz6zSTx76mEzlQXs/edit?usp=sharing
 
 
 *  table definition
