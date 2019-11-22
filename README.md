@@ -26,14 +26,14 @@ Things you may want to cover:
 * Application structure
 
 * Poject Name 
-Library Management System
+Book Library App
 
 *  Overview
 
-A college library management is a project that manages and stores books information electronically according to students needs. The system helps both students and library manager to keep a constant track of all the books available in the library. It allows both the admin and the student to search for the desired book.
+A Book Library App is a project that manages and stores books information electronically according to students needs. The system helps both students and library manager to keep a constant track of all the books available in the library. It allows both the admin and the student to search for the desired book.
 
 * concept
-A Library Management System is a software built to handle the primary housekeeping functions of a library. Libraries rely on library management systems to manage asset collections as well as relationships with their members.
+A Book Library App is a software built to handle the primary housekeeping functions of a library. Libraries rely on library management systems to manage asset collections as well as relationships with their members.
 
 * Function List
 * user creation, update, show or view, approve and delete functions
