@@ -43,7 +43,11 @@ A Library Management System is a software built to handle the primary housekeepi
 * signin function using  username, user_type and password
 * books create, display, edit and delete functions
 * request function using send, approve and rejected
-
+*  User registration
+   Name, email address and password are required
+*  Admin Function
+* Profile editing function
+* Profile image can be set as an icon
 *  I will make CRUD by generating scaffold of controller, model and view
 
 * Table definition
