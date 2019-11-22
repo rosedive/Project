@@ -61,7 +61,7 @@ https://docs.google.com/document/d/1dt4M8JXqMCGxM08Bo7mbF3gbHY9v1fxQp-_OzKI_Nqw/
 
 * Screen transition diagram
 
-https://docs.google.com/document/d/1aSrsQhj4kbCWoDQFuqT-w2AMa2rw27Z5OUlfo1eSWKc/edit?usp=sharing
+https://docs.google.com/document/d/1w7HjF85dYgtGbnktRvmVbUCTNag1d5yWuluSIx5UE5A/edit?usp=sharing
 
 * Screen wire frame 
 
