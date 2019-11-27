@@ -90,5 +90,6 @@ Authentication
 . gem devise
 
 other gems
-. capistrano . unicorn . carrierwave . mini_magick . fog-aws . search_cop
+. capistrano . unicorn . carrierwave . mini_magick . fog-aws . search_cop, gem 'kaminari'
+gem 'launchy'
 
