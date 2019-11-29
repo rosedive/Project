@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  get 'sessions/new'
+ 
   resources :order_books
   resources :users
   resources :books

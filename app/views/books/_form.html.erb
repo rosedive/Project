@@ -30,12 +30,6 @@
     <%= form.file_field :thumbnail %>
   </div>
 
-  <div class="field">
-     <%= form.label :image %><br>
-     <%= image_tag(@book.image.url, class:"upload" ) if @book.image && @book.image.url %>
-     <%= form.file_field :image %>
-     <%= form.hidden_field :image_cache %>
-  </div>
 
   <div class="actions">
     <%= form.submit %>
