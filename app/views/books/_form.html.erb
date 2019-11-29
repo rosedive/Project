@@ -25,10 +25,16 @@
     <%= form.label :status %>
     <%= form.text_field :status %>
   </div>
+  <div class="field">
+    <%= form.label :Book_image %>
+    <%= form.file_field :thumbnail %>
+  </div>
 
   <div class="field">
-    <%= form.label :photo %>
-    <%= form.file_field :photo %>
+     <%= form.label :image %><br>
+     <%= image_tag(@book.image.url, class:"upload" ) if @book.image && @book.image.url %>
+     <%= form.file_field :image %>
+     <%= form.hidden_field :image_cache %>
   </div>
 
   <div class="actions">
